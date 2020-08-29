@@ -8,7 +8,7 @@ import javax.persistence.Table;
 @Table(name="Accounts")
 public class Accounts implements Serializable {
 
-	private static final long serialVersionUID = 1L;
+
 
 
 
